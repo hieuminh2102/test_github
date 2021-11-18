@@ -1,1 +1,4 @@
 vi du 1
+- cho thanh modified (đã sửa)(màu cam đỏ) modified TỨC LÀ không thể commit 
+vì chưa git add( để đưa file vao trạng thái staged)
+-trang thái staged(màu xanh) là có thể commit vì đã dùng git add rồi
